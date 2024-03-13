@@ -1,4 +1,4 @@
-# Project Name
+# Skin Infection Detection
 
 
 ## Table of Contents
